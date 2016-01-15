@@ -1,0 +1,2 @@
+# device_management_tool
+QAで保管しているデバイスを管理するためのツール.
